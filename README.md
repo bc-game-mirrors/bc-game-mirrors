@@ -3,6 +3,8 @@ BC.Game has been battling numerous other gaming websites for the title of an abs
 
 What makes <a href="https://bcgame-mirror.in.net">this site</a> special? Its huge number of games of all possible genres, plus a large community of users who are always willing to help each other out. Let’s dive a bit deeper into this matter.     
 
+![BC Game](https://raw.githubusercontent.com/bc-game-mirrors/jpeg/refs/heads/main/bcgame_promo.png)
+
 ## Top Games at BC Site
 
 BC.Game thrives on variety. It supports many gaming genres, particularly these ones:
