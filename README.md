@@ -32,7 +32,7 @@ Along with its selection of games and tournaments, BC Game also offers promo cod
   <tbody>
     <tr>
       <td>styin</td>
-      <td>Up to ₹368,400 Welcome Bonus</td>
+      <td>Up to ₹368 400 Welcome Bonus</td>
       <td>Active</td>
     </tr>
         <tr>
@@ -42,12 +42,12 @@ Along with its selection of games and tournaments, BC Game also offers promo cod
     </tr>
     <tr>
       <td>inhltv</td>
-      <td>Up to 1,080% + 340% RakeBack on 4 deposits</td>
+      <td>Up to 1 080% + 340% RakeBack on 4 deposits</td>
       <td>Active</td>
     </tr>
         <tr>
       <td>bcace</td>
-      <td>Up to 1,080% + 340% RakeBack on 4 deposits</td>
+      <td>Up to 1 080% + 340% RakeBack on 4 deposits</td>
       <td>Active</td>
     </tr>
     <tr>
